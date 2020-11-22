@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saipraveen-a/nodejs-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saipraveen-a/nodejs-testing/issues"
+  },
+  "homepage": "https://github.com/saipraveen-a/nodejs-testing#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
